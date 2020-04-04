@@ -1,0 +1,6 @@
+Time Floor FloorButton CarButton Fault Test3	// basic no faults multiple elevators
+14:05:00.0 5 Up 9 1  
+14:05:00.0 4 Up 5 1  
+14:05:15.0 1 Up 4 1 
+14:05:08.0 9 Down 2 1
+14:05:10.0 4 Down 1 1   
